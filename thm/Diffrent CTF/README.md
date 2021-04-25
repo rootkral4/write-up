@@ -32,6 +32,7 @@ can be done with nmap and gobuster
 [![/a](https://i.imgur.com/KGz41yt.png "/a")](https://i.imgur.com/KGz41yt.png "/a")
 
 now we have a image and wordlist looks like a job for stegcracker
+
 password was at the eof took some time to crack
 
 `$ stegcracker austrailian-bulldog-ant.jpg wordlist.txt`
