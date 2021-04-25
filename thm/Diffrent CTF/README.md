@@ -1,4 +1,4 @@
-# Diffrent CTF
+# Different CTF
 
 ### Task 1 Basic scan
 can be done with nmap and gobuster
