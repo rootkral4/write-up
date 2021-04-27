@@ -127,7 +127,7 @@ phpmyadmin1 -> wp_options -> site_url was a subdomain
 
 `$ nano /etc/hosts` //add subdomain to hosts
 
-`http://subdomain.adana.thm/`
+`http://[REDACTED].adana.thm/`
 
 this subdomain was same as main website
 when i move to /phpshell.php, yes! php shell is here
